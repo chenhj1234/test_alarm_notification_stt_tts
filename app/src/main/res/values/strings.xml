@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="str_btn_take_picture">Take Picture</string>
+    <string name="str_btn_record_video">Record Video</string>
+    <string name="str_title_test_camera_intent">Camera Intent Test</string>
+    <string name="hide_nav">Immersive</string>
+    <string name="str_show_nav">Show Nav</string>
+    <string name="str_immersive_sticky">Sticky</string>
+</resources>

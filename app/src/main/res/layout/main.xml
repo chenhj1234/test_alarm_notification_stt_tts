@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="fill_parent"
+              android:layout_height="fill_parent"
+              android:keepScreenOn="true"
+              android:orientation="vertical"
+    >
+
+  <TextView
+      android:id="@+id/edit_text"
+      android:layout_width="fill_parent"
+      android:layout_height="wrap_content"
+      android:layout_margin="@dimen/margin_"
+      android:text="Speech綜合測試"
+      android:textSize="@dimen/txt_size"
+      />
+
+  <ListView
+      android:id="@+id/listview_main"
+      android:layout_width="fill_parent"
+      android:layout_height="wrap_content"
+      android:layout_margin="10dp"
+      android:dividerHeight="@dimen/line_height"
+      android:paddingBottom="10dp"
+      />
+</LinearLayout>
